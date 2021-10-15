@@ -1,0 +1,4 @@
+*.lock
+*.7z
+training/logs/*/
+.ipynb_checkpoints
